@@ -23,6 +23,8 @@ build
 *.keystore
 **/.vs/**
 **/bin/**
+**/bin-int/**
+bin-int/
 !tests/rust_usage_test/bin/**
 **/gen/**
 **/libs/**
